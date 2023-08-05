@@ -2,6 +2,26 @@
 
 - This project is an online implementation of the classic toy called "Etch-A-Sketch." It is a digital recreation of the iconic drawing toy that allows users to create artwork by manipulating a virtual stylus on a virtual screen.
 
+# Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/bogdanblare/Etch-A-Sketch.git
+```
+
+Go to the project directory
+
+```bash
+  cd Etch-A-Sketch
+```
+
+Start
+
+```bash
+  npm start
+```
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/bogdanblare/Etch-A-Sketch/blob/main/screenshot.png?raw=true)
