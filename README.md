@@ -22,11 +22,11 @@ Start
   npm start
 ```
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://github.com/bogdanblare/Etch-A-Sketch/blob/main/screenshot.png?raw=true)
 
-# About
+# ✨ About
 
 - The Etch-A-Sketch project provides a user-friendly interface that mimics the physical toy's functionality. Users can move the stylus vertically and horizontally using keyboard arrow keys or by clicking and dragging the mouse. As they move the stylus, a line is drawn on the screen, allowing them to create various shapes, patterns, or free-form drawings.
 
