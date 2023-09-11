@@ -1,8 +1,8 @@
-# Etch-A-Sketch
+# 🚀 Etch-A-Sketch
 
 - This project is an online implementation of the classic toy called "Etch-A-Sketch." It is a digital recreation of the iconic drawing toy that allows users to create artwork by manipulating a virtual stylus on a virtual screen.
 
-# Run Locally
+# 🔧 Run Locally
 
 Clone the project
 
